@@ -8,9 +8,7 @@
 
 ---
 
-![GitHub contributions](https://github-readme-stats.vercel.app/api?username=kevinlul&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple)
-
-![GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinlul&langs_count=10&layout=compact&theme=midnight-purple)
+![GitHub contributions](https://github-readme-stats.vercel.app/api?username=kevinlul&count_private=true&include_all_commits=true&show_icons=true&hide_title=true&theme=midnight-purple)
 
 ---
 
